@@ -1,0 +1,19 @@
+{
+  "name": "LFSR_CAP_CLS",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "repository": "https://github.com/fesanabriar/LFSR_CAP_CLS.git",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^8",
+    "express": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^1",
+    "@cap-js/cds-types": "^0.6"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  }
+}
